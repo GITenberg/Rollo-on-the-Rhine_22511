@@ -1,0 +1,32 @@
+_repo: Rollo-on-the-Rhine_22511
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Erodore
+    - Marianne
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'DD'
+- !lcsh 'Rhineland (Germany) -- Description and travel -- Juvenile literature'
+title: Rollo on the Rhine
+url: http://www.gutenberg.org/ebooks/22511
